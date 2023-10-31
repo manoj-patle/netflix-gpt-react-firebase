@@ -1,9 +1,14 @@
 # React + Vite
 
 - Configure a react vite app
-- Configure tailwind
+- Configure tailwindCSS
+- Header
+- Login Form
 
 # features
+- Login/Sign Up
+  - Sign In / Sign Up Forms
+  - Redirect to Browse Page
 
 - Browse (after authentication)
   - Header
