@@ -1,18 +1,22 @@
 # React + Vite
 
-- Configure a react vite app
-- Configure tailwindCSS
+- Configured a react vite app
+- Configured tailwindCSS
 - Header
 - Login Form
 
-# features
+# Features
 - Login/Sign Up
   - Sign In / Sign Up Forms
   - Redirect to Browse Page
 
 - Browse (after authentication)
   - Header
-  - Main Movie - Trailer in Background - Title & Description - Movie Suggesggestions - MovieLists \* N
-    -NetflixGPT
+  - Main Movie 
+    - Trailer in Background 
+    - Title & Description 
+    - Movie Suggesggestions 
+      - MovieLists * N
+-NetflixGPT
   - Seach Bar
   - Movie Suggesggestions
